@@ -1,0 +1,19 @@
+# ninja log v5
+5	793	7548684149353583	CMakeFiles/P3_ProyectoFinal.dir/Pelicula.cpp.obj	6284dc8ae4960e5a
+5	1463	7549888984923320	CMakeFiles/P3_ProyectoFinal.dir/main.cpp.obj	3984fe0ad879a51b
+1823	2092	7549888991167092	P3_ProyectoFinal.exe	6b5272abda5463d5
+21	1287	7548683454102452	CMakeFiles/P3_ProyectoFinal.dir/Nodo.cpp.obj	d71795de6cd0805c
+5	1013	7548689978782891	CMakeFiles/P3_ProyectoFinal.dir/Procesador.cpp.obj	ad6ef5f9abeb9995
+18	1823	7549888988514260	CMakeFiles/P3_ProyectoFinal.dir/Arbol.cpp.obj	7270fff66ab5fe7a
+6	1275	7549889232699855	CMakeFiles/P3_ProyectoFinal.dir/main.cpp.obj	3984fe0ad879a51b
+1275	1513	7549889235041312	P3_ProyectoFinal.exe	6b5272abda5463d5
+5	1376	7549890315208256	CMakeFiles/P3_ProyectoFinal.dir/main.cpp.obj	3984fe0ad879a51b
+1376	1620	7549890317594943	P3_ProyectoFinal.exe	6b5272abda5463d5
+5	1764	7549893216363202	CMakeFiles/P3_ProyectoFinal.dir/main.cpp.obj	3984fe0ad879a51b
+15	2457	7549893223258235	CMakeFiles/P3_ProyectoFinal.dir/Arbol.cpp.obj	7270fff66ab5fe7a
+2457	2812	7549893226753676	P3_ProyectoFinal.exe	6b5272abda5463d5
+5	1725	7549893749192666	CMakeFiles/P3_ProyectoFinal.dir/main.cpp.obj	3984fe0ad879a51b
+1725	2021	7549893752094889	P3_ProyectoFinal.exe	6b5272abda5463d5
+6	1722	7549896616459578	CMakeFiles/P3_ProyectoFinal.dir/main.cpp.obj	3984fe0ad879a51b
+16	2287	7549896622133538	CMakeFiles/P3_ProyectoFinal.dir/Arbol.cpp.obj	7270fff66ab5fe7a
+2287	2632	7549896625519840	P3_ProyectoFinal.exe	6b5272abda5463d5
